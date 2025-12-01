@@ -1,3 +1,52 @@
 <resources>
-    <string name="app_name">Project2</string>
+
+    <!-- App Name -->
+    <string name="app_name">Project 2</string>
+
+    <!-- Login -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="no_account">Don\'t have an account? Create one</string>
+    <string name="already_have">Already have an account? Log in</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="welcome_title">Welcome to Universal Guide</string>
+
+    <!-- Home Screen -->
+    <string name="homescreen_title">Universal Studios Guide</string>
+    <string name="welcome_user">Welcome, %1$s</string>
+    <string name="view_attractions">View Attractions</string>
+    <string name="map">Map of the Park</string>
+    <string name="favorites">Favorites</string>
+
+    <!-- Attractions List -->
+    <string name="attractions_title">Universal Attractions</string>
+    <string name="wait_time">Wait Time</string>
+    <string name="status">Status</string>
+    <string name="save_with_star">⭐ Save</string>
+    <string name="already_saved">Already saved!</string>
+    <string name="saved">Saved!</string>
+
+
+    <!-- Favorites Screen -->
+    <string name="login_required">Login required</string>
+    <string name="favorites_title">Your Favorites</string>
+    <string name="no_favorites">No favorites yet!</string>
+    <string name="remove">Remove</string>
+
+    <!-- Map Screen -->
+    <string name="filter_all">All</string>
+    <string name="filter_rides">Rides</string>
+    <string name="filter_shows">Shows</string>
+    <string name="recenter">Recenter</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="zoom_out">Zoom Out</string>
+
+    <!-- Language Toggle -->
+    <string name="language_button">🌐 Language / زبان</string>
+    <string name="english">English</string>
+    <string name="persian">فارسی</string>
+
 </resources>

@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">پروژه ۲</string>
+
+    <!-- Login -->
+    <string name="email">ایمیل</string>
+    <string name="password">رمز عبور</string>
+    <string name="confirm_password">تکرار رمز عبور</string>
+    <string name="login">ورود</string>
+    <string name="signup">ثبت‌نام</string>
+    <string name="no_account">حساب کاربری ندارید؟ یک حساب بسازید</string>
+    <string name="already_have">قبلاً حساب دارید؟ وارد شوید</string>
+    <string name="remember_me">مرا به خاطر بسپار</string>
+    <string name="welcome_title">به پروژه ۲ خوش آمدید</string>
+
+    <!-- Home Screen -->
+    <string name="homescreen_title">صفحه اصلی پروژه ۲</string>
+    <string name="welcome_user">خوش آمدی، %1$s</string>
+    <string name="view_attractions">مشاهده جاذبه‌ها</string>
+    <string name="map">نقشه</string>
+    <string name="favorites">موارد دلخواه</string>
+
+    <!-- Attractions List -->
+    <string name="attractions_title">جاذبه‌ها</string>
+    <string name="wait_time">زمان انتظار</string>
+    <string name="status">وضعیت</string>
+    <string name="save_with_star">⭐ ذخیره</string>
+    <string name="already_saved">قبلاً ذخیره شده!</string>
+    <string name="saved">ذخیره شد!</string>
+
+    <!-- Favorites Screen -->
+    <string name="login_required">ورود لازم است</string>
+    <string name="favorites_title">لیست موارد دلخواه</string>
+    <string name="no_favorites">هیچ مورد دلخواهی موجود نیست!</string>
+    <string name="remove">حذف</string>
+
+    <!-- Map Screen -->
+    <string name="filter_all">همه</string>
+    <string name="filter_rides">سواری‌ها</string>
+    <string name="filter_shows">نمایش‌ها</string>
+    <string name="recenter">مرکز</string>
+    <string name="zoom_in">بزرگ‌نمایی</string>
+    <string name="zoom_out">کوچک‌نمایی</string>
+
+    <!-- Language Toggle -->
+    <string name="language_button">🌐 زبان / Language</string>
+    <string name="english">انگلیسی</string>
+    <string name="persian">فارسی</string>
+
+</resources>
