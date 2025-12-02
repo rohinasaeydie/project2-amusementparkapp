@@ -4,6 +4,10 @@
     <string name="app_name">Project 2</string>
 
     <!-- Login -->
+    <string name="create_account">Create Your Account</string>
+    <string name="signup_subtitle">Join Universal Studios Guide!</string>
+    <string name="password_mismatch">Passwords do not match.</string>
+    <string name="account_created">Account created!</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="confirm_password">Confirm Password</string>

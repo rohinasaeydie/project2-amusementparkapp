@@ -4,6 +4,10 @@
     <string name="app_name">پروژه ۲</string>
 
     <!-- Login -->
+    <string name="create_account">ایجاد حساب کاربری</string>
+    <string name="signup_subtitle">به راهنمای یونیورسال استودیو بپیوندید!</string>
+    <string name="password_mismatch">رمزهای عبور یکسان نیستند.</string>
+    <string name="account_created">حساب با موفقیت ساخته شد!</string>
     <string name="email">ایمیل</string>
     <string name="password">رمز عبور</string>
     <string name="confirm_password">تکرار رمز عبور</string>

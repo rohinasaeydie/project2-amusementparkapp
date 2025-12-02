@@ -158,10 +158,6 @@ fun SignUpScreen() {
 
                     Spacer(Modifier.height(16.dp))
 
-                    // -------------------------------
-                    // Confirm Password Field
-                    // Ensures user typed the same password twice
-                    // -------------------------------
                     OutlinedTextField(
                         value = confirmPassword,
                         onValueChange = { confirmPassword = it },
@@ -181,8 +177,18 @@ fun SignUpScreen() {
                         )
                     )
 
-                    Spacer(Modifier.height(24.dp))
+                    Spacer(Modifier.height(6.dp))
 
+                    // ⭐ Inline password mismatch error (live)
+                    if (confirmPassword.isNotEmpty() && password != confirmPassword) {
+                        Text(
+                            text = "Passwords do not match.",
+                            color = Color.Red,
+                            style = MaterialTheme.typography.bodySmall
+                        )
+                    }
+
+                    Spacer(Modifier.height(18.dp))
                     // ------------------------------------------------------------
                     // Sign Up Button
                     // Creates a Firebase user if passwords match
