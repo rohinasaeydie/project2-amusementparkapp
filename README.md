@@ -128,5 +128,3 @@ Computer Science Student at The George Washington University
 ## 📌 Repository Note
 
 This project was originally created for **CSCI 4237** as Project 2 and focuses on building a practical Android application using live park data, Firebase, and Google Maps.
-API keys and local credentials have been removed from this repository for security purposes, and the original API key used in development has expired.
-If you would like to run this project locally, you may need to provide your own Firebase configuration and API credentials.
